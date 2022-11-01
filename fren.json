@@ -1,0 +1,288 @@
+{
+    "1" : {
+        "fr" : "Collaborateur",
+        "en" : "Fellow"
+    },
+
+    "2" : {
+        "fr" : "Spéléologie",
+        "en" : "Spelunking"
+    },
+
+    "3" : {
+        "fr" : "Fermer",
+        "en" : "Close"
+    },
+    "4": {
+        "fr": "Achat",
+        "en": "purchase"
+    },
+    "5": {
+        "fr": "Action (bourse)",
+        "en": "share"
+    },
+    "6": {
+        "fr": "Actionnaire",
+        "en": "shareholder"
+    },
+    "7": {
+        "fr": "Addition",
+        "en": "bill"
+    },
+    "8": {
+        "fr": "Améliorer",
+        "en": "to improve"
+    },
+    "9": {
+        "fr": "Annuler",
+        "en": "to cancel"
+    },
+    "10": {
+        "fr": "Atteindre",
+        "en": "to reach"
+    },
+    "11": {
+        "fr": "Bénéfices",
+        "en": "profits"
+    },
+    "12": {
+        "fr": "Bourse",
+        "en": "stock market / stock exchange"
+    },
+    "13": {
+        "fr": "Bureau",
+        "en": "office"
+    },
+    "14": {
+        "fr": "Candidature",
+        "en": "application"
+    },
+    "15": {
+        "fr": "Client",
+        "en": "customer"
+    },
+    "16": {
+        "fr": "Commande",
+        "en": "order"
+    },
+    "17": {
+        "fr": "Commander",
+        "en": "to order"
+    },
+    "18": {
+        "fr": "Commerce",
+        "en": "trade"
+    },
+    "19": {
+        "fr": "Commercial (le métier)",
+        "en": "salesman / salesperson"
+    },
+    "20": {
+        "fr": "Compétences",
+        "en": "skills"
+    },
+    "21": {
+        "fr": "Comptabilité",
+        "en": "accounting"
+    },
+    "22": {
+        "fr": "Concurrence",
+        "en": "competition"
+    },
+    "23": {
+        "fr": "Concurrent",
+        "en": "competitor"
+    },
+    "24": {
+        "fr": "Conseil",
+        "en": "advice"
+    },
+    "25": {
+        "fr": "Conseiller",
+        "en": "to advise"
+    },
+    "26": {
+        "fr": "Consommateur",
+        "en": "consumer"
+    },
+    "27": {
+        "fr": "Coût",
+        "en": "cost"
+    },
+    "28": {
+        "fr": "Dette",
+        "en": "debt"
+    },
+    "29": {
+        "fr": "Disponible",
+        "en": "available"
+    },
+    "30": {
+        "fr": "Droit",
+        "en": "law"
+    },
+    "31": {
+        "fr": "Employé",
+        "en": "employee / clerk"
+    },
+    "32": {
+        "fr": "Engager",
+        "en": "to hire"
+    },
+    "33": {
+        "fr": "Enquête / sondage",
+        "en": "survey"
+    },
+    "34": {
+        "fr": "Entreprise",
+        "en": "company"
+    },
+    "35": {
+        "fr": "Eviter",
+        "en": "to avoid"
+    },
+    "36": {
+        "fr": "Facture",
+        "en": "bill / invoice"
+    },
+    "37": {
+        "fr": "Fonds monétaires, capitaux",
+        "en": "funds"
+    },
+    "38": {
+        "fr": "Formation",
+        "en": "training"
+    },
+    "39": {
+        "fr": "Fournir",
+        "en": "to supply / to provide"
+    },
+    "40": {
+        "fr": "Fournisseur",
+        "en": "supplier / provider"
+    },
+    "41": {
+        "fr": "Gérer",
+        "en": "to manage"
+    },
+    "42": {
+        "fr": "Impôt",
+        "en": "tax"
+    },
+    "43": {
+        "fr": "Informatique",
+        "en": "I.T."
+    },
+    "44": {
+        "fr": "Livraison",
+        "en": "delivery"
+    },
+    "45": {
+        "fr": "Marque",
+        "en": "brand"
+    },
+    "46": {
+        "fr": "Météo",
+        "en": "weather"
+    },
+    "47": {
+        "fr": "Part de marché",
+        "en": "market share"
+    },
+    "48": {
+        "fr": "PDG",
+        "en": "CEO"
+    },
+    "49": {
+        "fr": "Porte-parole",
+        "en": "spokesperson / spokesman"
+    },
+    "50": {
+        "fr": "Poste",
+        "en": "position"
+    },
+    "51": {
+        "fr": "Postuler",
+        "en": "to apply"
+    },
+    "52": {
+        "fr": "Prendre sa retraite",
+        "en": "to retire"
+    },
+    "53": {
+        "fr": "Problème",
+        "en": "issue"
+    },
+    "54": {
+        "fr": "Programme",
+        "en": "schedule"
+    },
+    "55": {
+        "fr": "Pub TV",
+        "en": "commercial"
+    },
+    "56": {
+        "fr": "Publicité",
+        "en": "advertising / advertisement"
+    },
+    "57": {
+        "fr": "Réduction",
+        "en": "discount"
+    },
+    "58": {
+        "fr": "Rembourser",
+        "en": "to refund"
+    },
+    "59": {
+        "fr": "Rendez-vous",
+        "en": "appointment"
+    },
+    "60": {
+        "fr": "Réservation",
+        "en": "booking"
+    },
+    "61": {
+        "fr": "Retraite",
+        "en": "retirement"
+    },
+    "62": {
+        "fr": "Salaire",
+        "en": "salary / wage"
+    },
+    "63": {
+        "fr": "Santé",
+        "en": "health"
+    },
+    "64": {
+        "fr": "Service (dans une entreprise)",
+        "en": "department"
+    },
+    "65": {
+        "fr": "Service achat",
+        "en": "purchasing department"
+    },
+    "66": {
+        "fr": "Service vente",
+        "en": "sales department"
+    },
+    "67": {
+        "fr": "Soldes",
+        "en": "sales"
+    },
+    "68": {
+        "fr": "Tâche",
+        "en": "task"
+    },
+    "69": {
+        "fr": "Taux",
+        "en": "rate"
+    },
+    "70": {
+        "fr": "Ventes",
+        "en": "sales"
+    },
+    "71": {
+        "fr": "Virer",
+        "en": "to fire"
+    }
+}
